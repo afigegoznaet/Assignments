@@ -1,0 +1,4 @@
+y = 132
+print y		# output:  132.0
+x = 0.021973
+print x		# output: 0.021973

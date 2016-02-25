@@ -1,0 +1,18 @@
+y = 4.375
+print y		# output: 4.375 (no rounding needed0
+x = 18.113
+print x		# output: 18.0 (with rounding)
+y = 136	
+print y		# output: 136.0
+y = 137	
+print y		# output: 136.0
+y = 138	
+print y		# output: 136.0
+y = 139	
+print y		# output: 136.0
+y = 140	
+print y		# output: 140.0
+y = 0.020508	
+print y		# output: 0.020508
+y = 0.0205	
+print y		# output: 0.020020
